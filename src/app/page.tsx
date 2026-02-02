@@ -1,3 +1,6 @@
+'use client'
+
+import puter from "@heyputer/puter.js";
 import Image from "next/image";
 
 export default function Home() {
